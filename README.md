@@ -1,1 +1,1 @@
-# Triplet-s-sum-of-zero
+# Triplet's-sum-of-zero
